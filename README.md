@@ -1,4 +1,4 @@
-# samurai_blocker
+# Samurai Blocker
 侍エンジニアの広告を無効化するChromeの拡張機能
 
 ## 追加方法
